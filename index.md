@@ -1,6 +1,7 @@
 # Miguel Encinas | Ph.D. in Chem. Eng.
 
-# Hi, I’m Miguel
+<img align= "left" src="Foto_CV.jpg" alt="Miguel Encinas" style="float: left; width: 380px;" />
+<h3 fontsize: 30 />Hi, I’m Miguel</h3>
 
 🎯If you want to know more about me, this is the rigth place! I am 29, and I am a **Ph.D. in Chemical Engineering** by the University of Zaragoza, with more than **5 years** of experience in the academic research.
 
@@ -10,23 +11,24 @@
 
 🗣️During this stage, I also obtainted a wide variety of **technical and soft skills:** high **interpersonal** and social capacities, **commitment** and dedication, analytical **thinking**, fast **learning**, problem **solving**, public **speaking**, generation of **scientific evidence** and **management** of several projects in parallel. Now I am seeking to **transfer** all the acquired abilities to the industry.
 
-# [View Resume](https://drive.google.com/file/d/1gEr8gfl3fGFKSIKgV14XsOcg2A77NulZ/view?usp=sharing)
 
-## [Linkedin](https://www.linkedin.com/in/miguel-encinas-gimenez/) 💼 | [Gmail](mailto:miguelencinas24@gmail.com) 📫 | [GitHub](https://github.com/therealmike10?tab=overview&from=2026-01-01&to=2026-01-23) 🐱 | [Google Scholar](https://scholar.google.es/citations?user=wkeOJE4AAAAJ&hl=en) 🎓
-
-![Foto_CV.jpg](Foto_CV.jpg)
+## [Resume](https://drive.google.com/file/d/1gEr8gfl3fGFKSIKgV14XsOcg2A77NulZ/view?usp=sharing) 📑 | [Linkedin](https://www.linkedin.com/in/miguel-encinas-gimenez/) 💼 | [Gmail](mailto:miguelencinas24@gmail.com) 📫 | [GitHub](https://github.com/therealmike10?tab=overview&from=2026-01-01&to=2026-01-23) 🐱 | [Google Scholar](https://scholar.google.es/citations?user=wkeOJE4AAAAJ&hl=en) 🎓
 
 ## Technical & Professional Skills
+<p align="center">
+  <img src= Microsoft_Office_Excel_(2025present).svg.png height="80">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a title="Google, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Google_Sheets_2020_Logo.svg"><img  height="80" alt="Google Sheets 2020 Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Google_Sheets_2020_Logo.svg/500px-Google_Sheets_2020_Logo.svg.png"></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a title="Nonodename, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg"><img height="80" alt="New Power BI Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png"></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src= Python-logo-notext.svg.png height="80">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src= Adobe_Illustrator_CC_icon.svg.png height="80">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src= Notion-logo.svg.png height="80"> 
+</p>
 
-![Microsoft_Office_Excel_(2025–present).svg.png](Microsoft_Office_Excel_(2025present).svg.png)
-
-[graphpad.jfif](graphpad.jfif)
-
-![Python-logo-notext.svg.png](Python-logo-notext.svg.png)
-
-![Adobe_Illustrator_CC_icon.svg.png](Adobe_Illustrator_CC_icon.svg.png)
-
-![Notion-logo.svg.png](Notion-logo.svg.png)
 
 ⭐ **9 scientific articles** (Q1 journals)
 
