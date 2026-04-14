@@ -86,7 +86,6 @@
 [Project Summary](Project%20Summary%202fee3ad3657880248f5cf829fa72ea63.md) | <a href= https://pubs.rsc.org/en/content/articlelanding/2025/nr/d5nr01927c/unauth> Article link - Nanoscale</a>
 
 </br>
-</br>
 
 <p align= "justify">
   <img align="right" src= "congreso_NALS.jpeg" alt=" NALS Conference 2022, Santander" style="float: right; width: 300px"/>
@@ -99,7 +98,8 @@
     <b>Confrence:</b> Nanomaterials Applied to Life Science, 2022 (Santander, Cantabria).
   </p>
 </p>
-
+</br>
+</br>
 <h2>Scientific review</h2>
 <p align= "justify">
   <img align="left" src= "Graphical_abstract.png" alt="Review Graphical abstract" style="float: left; width: 255px;"/>
@@ -119,17 +119,17 @@
 <p>
   <h2>🏀 Playing basketball</h2>
   <p align= "justify">
-    After **20+ years** playing this sport, basketball has provided me with many qualities that I still carry with me today, such as <b>teamwork, leadership, discipline, dedication, resilience</b> and passion for sports. These qualities led my to win <b>2 individual prizes</b>, also leading my team to be <b>champions of the league</b>.
+    After <b></b>20+ years</b> playing this sport, basketball has provided me with many qualities that I still carry with me today, such as <b>teamwork, leadership, discipline, dedication, resilience</b> and passion for sports. These qualities led my to win <b>2 individual prizes</b>, also leading my team to be <b>champions of the league</b>.
     I also obtained the <b>Certification of Basketball Trainer (Level I)</b>, spending one year as <b>Assistant Trainer</b> in the sports club where I played, learning the <b>management of a team</b> and leading our team to the <b>league victory</b>.
   </p>
   <h2>👟 Practicing other sports</h2>
   <p align= "justify">
-    During the last years, I had the opportunity to practice and enjoy different sports and activities, such as **padel** and **mountain hiking**, still practicing them occasionally.
-    In addition, I also enjoy **running** regularly, with the current objective of improving my running time in **5K races,** following a training planning.
+    During the last years, I had the opportunity to practice and enjoy different sports and activities, such as <b>padel</b> and <b>mountain hiking</b>, still practicing them occasionally.
+    In addition, I also enjoy <b>running regularly</b>, with the current objective of improving my running time in <b>5K races</b>, following a training planning.
   </p>
   <h2>📚 Reading</h2>
   <p align= "justify">
-    Reading books has always been one of my favorite activities, serving as a space for **relaxation** and **reflection**. My preferences have changed over the years, reading either **novels** or **essays**, yet there are some genres that I particularly enjoy the most, such as epic fantasy and personal development. I am also a huge fan of comics, *manga* and graphic novels.
+    Reading books has always been one of my favorite activities, serving as a space for <b>relaxation</b> and <b>reflection</b>. My preferences have changed over the years, reading either <b>novels</b> or <b>essays</b>, yet there are some genres that I particularly enjoy the most, such as epic fantasy and personal development. I am also a huge fan of comics, <b>manga</b> and graphic novels.
   </p>
   <h2>✈️Travelling</h2>
   <p algin= "justify">
@@ -139,4 +139,4 @@
 </p>
 </br>
 <h2>Thanks for taking the time to visit my portfolio!</h2>
-&nbsp;
+</br>
