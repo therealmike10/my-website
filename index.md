@@ -23,16 +23,20 @@
 <h2 align="center">
   <a href= "https://drive.google.com/file/d/1gEr8gfl3fGFKSIKgV14XsOcg2A77NulZ/view?usp=sharing">Resume 📑</a> 
   &nbsp; 
-  <b>| </b>
-  <a href= "https://www.linkedin.com/in/miguel-encinas-gimenez/">LinkedIn 💼</a>
+  <b>|</b>
   &nbsp; 
-  <b>| </b>
+  <a href= "https://www.linkedin.com/in/miguel-encinas-gimenez/">LinkedIn 💼</a>
+  &nbsp;
+  <b>|</b>
+  &nbsp; 
   <a href= "mailto:miguelencinas24@gmail.com">Gmail 📫</a>
   &nbsp; 
-  <b>| </b>
+  <b>|</b>
+  &nbsp; 
   <a href= "https://github.com/therealmike10?tab=overview&from=2026-01-01&to=2026-01-23">GitHub 🐱</a>
   &nbsp; 
-  <b>| </b>
+  <b>|</b>
+  &nbsp; 
   <a href= "https://scholar.google.es/citations?user=wkeOJE4AAAAJ&hl=en">Google Scholar 🎓</a>
 </h2>
 
