@@ -5,18 +5,38 @@
 <img align= "left" src="Foto_CV.jpg" alt="Miguel Encinas" style="float: left; width: 380px;" />
 <h3 style="font-size: 30px;">Hi, I’m Miguel</h3>
 <p>
-  🎯If you want to know more about me, this is the rigth place! I am 29, and I am a **Ph.D. in Chemical Engineering** by the University of Zaragoza, with more than **5 years** of experience in the academic research.
+  🎯If you want to know more about me, this is the rigth place! I am 29, and I am a <b>Ph.D. in Chemical Engineering</b> by the University of Zaragoza, with <b>5 years</b> of experience in the analysis of biomedical data.
   <br/>
   <br/>
-  🔬The main goal of my Ph.D. thesis was the development of strategies that could **face tumoral growth**, using nanomaterials with catalytic activities to this end. We also deepened in the study of their **specific delivery to the tumoral mass**.
+  🔬The main goal of my Ph.D. thesis was the development of strategies that could <b>face tumoral growth</b>, using nanomaterials with catalytic activities to this end. We also deepened in the study of their<b>specific delivery to the tumoral mass</b>.
   <br/>
-  📊Due to this, I currently possess a **wide knowledge** of the biological principles, diagnosis and treatment strategies of **oncological processes**. At this moment, I am also learning and training my skills in **Python and SQL for Data Analysis** with relevant certifications and applying the obtained knowledge to practical situations.
   <br/>
-  🗣️During this stage, I also obtainted a wide variety of **technical and soft skills:** high **interpersonal** and social capacities, **commitment** and dedication, analytical **thinking**, fast **learning**, problem **solving**, public **speaking**, generation of **scientific evidence** and **management** of several projects in parallel. Now I am seeking to **transfer** all the acquired abilities to the industry.
+  📊Due to this, I currently possess a wide knowledge of the biological principles, diagnosis and treatment strategies of <b>oncological processes</b>. At this moment, I am also learning and training my skills in <b>Python, Excel and SQL for Data Analysis</b> with relevant certifications and applying the obtained knowledge to practical situations.
+  <br/>
+  <br/>
+  🗣️During this stage, I also obtainted a wide variety of <b>technical and soft skills</b>: high interpersonal and social capacities, commitment and dedication, analytical thinking, fast learning, problem solving, public speaking, generation of scientific evidence and management of several projects in parallel. Now I am seeking to 
+    <b>transfer all the acquired abilities</b> to the industry.
 </p>
-<p>
-  [CV](https://drive.google.com/file/d/1gEr8gfl3fGFKSIKgV14XsOcg2A77NulZ/view?usp=sharing) 📑 | [LinkedIn](https://www.linkedin.com/in/miguel-encinas-gimenez/) 💼 | [Gmail](mailto:miguelencinas24@gmail.com) 📫 | [GitHub](https://github.com/therealmike10?tab=overview&from=2026-01-01&to=2026-01-23) 🐱 | [Google Scholar](https://scholar.google.es/citations?user=wkeOJE4AAAAJ&hl=en) 🎓
-</p>
+
+<br/>
+
+<h2 align="center">
+  <a href= "https://drive.google.com/file/d/1gEr8gfl3fGFKSIKgV14XsOcg2A77NulZ/view?usp=sharing">Resume 📑</a> 
+  &nbsp; 
+  <b>|</b>
+  <a href= "https://www.linkedin.com/in/miguel-encinas-gimenez/">LinkedIn 💼</a>
+  &nbsp; 
+  <b>|</b>
+  <a href= "mailto:miguelencinas24@gmail.com">Gmail 📫</a>
+  &nbsp; 
+  <b>|</b>
+  <a href= "https://github.com/therealmike10?tab=overview&from=2026-01-01&to=2026-01-23">GitHub 🐱</a>
+  &nbsp; 
+  <b>|</b>
+  <a href= "https://scholar.google.es/citations?user=wkeOJE4AAAAJ&hl=en">Google Scholar 🎓</a>
+</h2>
+
+<br/>
 
 <h2> Technical & Professional Skills </h2> 
 <p align="center">
