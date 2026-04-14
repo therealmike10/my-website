@@ -23,16 +23,16 @@
 <h2 align="center">
   <a href= "https://drive.google.com/file/d/1gEr8gfl3fGFKSIKgV14XsOcg2A77NulZ/view?usp=sharing">Resume 📑</a> 
   &nbsp; 
-  <b>|</b>
+  <b>| </b>
   <a href= "https://www.linkedin.com/in/miguel-encinas-gimenez/">LinkedIn 💼</a>
   &nbsp; 
-  <b>|</b>
+  <b>| </b>
   <a href= "mailto:miguelencinas24@gmail.com">Gmail 📫</a>
   &nbsp; 
-  <b>|</b>
+  <b>| </b>
   <a href= "https://github.com/therealmike10?tab=overview&from=2026-01-01&to=2026-01-23">GitHub 🐱</a>
   &nbsp; 
-  <b>|</b>
+  <b>| </b>
   <a href= "https://scholar.google.es/citations?user=wkeOJE4AAAAJ&hl=en">Google Scholar 🎓</a>
 </h2>
 
@@ -53,18 +53,20 @@
   <img src= Notion-logo.svg.png height="90"> 
 </p>
 
-
-⭐ **9 scientific articles** (Q1 journals)
-
-⭐ **International collaborations** | 2 articles
-
-⭐ **Results presentation** | 5+ years
-
-⭐ **Generation of scientific insights** | 5+ years
-
-⭐ **Scientific congresses** | 4 participations
-
-⭐**IBM Data Science Professional Certificate**
+<h4 align="center">
+  ⭐9 scientific articles (Q1 journals)
+  &nbsp; &nbsp; &nbsp; 
+  ⭐International collaborations | 2 articles
+  &nbsp; &nbsp; &nbsp;
+  ⭐Results presentation | 5+ years
+</h4>
+<h4 align="center"> 
+  ⭐Generation of scientific insights | 5+ years
+  &nbsp; &nbsp; &nbsp;
+  ⭐Scientific conferences | 4 participations
+  &nbsp; &nbsp; &nbsp;
+  ⭐IBM Data Science Professional Certificate
+</h4>
 
 ## Relevant Projects
 
