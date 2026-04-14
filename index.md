@@ -108,7 +108,7 @@
     <b>Writing, design and formatting</b> a scientific review about the principal interactions of nanoparticles with nucleic acids. This work required searching, understanding, and synthesizing a large amount of information from multiple sources.
     </br>
     </br>
-    [Project summary](Project%20summary%202fee3ad36578804f8206e0622c89342f.md) | <a href="https://www.mdpi.com/1422-0067/25/4/1983"> Article link - IJMS</a>
+    <b><a href= "Subpage_review.md"> Project summary</a> | <a href="https://www.mdpi.com/1422-0067/25/4/1983"> Article link - IJMS</a></b>
   </p>
 </p>
 
