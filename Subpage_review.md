@@ -13,7 +13,7 @@
     - <b>Establish relationships and connections</b> between the drawn information, leading to uncovering meaningful insights of high relevance.
   </br>
   </br>
-    - <b>Discuss and justify</b> different points of view and evidences observed in the wide range of articles studied, enriching this way the quality of this work
+    - <b>Discuss and justify</b> different points of view and evidences observed in the wide range of articles studied, enriching the quality of this work
   </br>
   </br>
     - <b>Organize this information under a storyline</b> that facilitated its understanding and evidenced the main drawn conclusions of the review.
