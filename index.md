@@ -2,23 +2,17 @@
   Miguel Encinas | Ph.D. in Chem. Eng.
 </h1>
 
-<img align= "left" src="Foto_CV.jpg" alt="Miguel Encinas" style="float: left; width: 380px;" />
+<img align= "left" src="Foto_CV.jpg" alt="Miguel Encinas" style="float: left; width: 255px;" />
 <h3 style="font-size: 30px;">Hi, I’m Miguel</h3>
-<p>
-  🎯If you want to know more about me, this is the rigth place! I am 29, and I am a <b>Ph.D. in Chemical Engineering</b> by the University of Zaragoza, with <b>5 years</b> of experience in the analysis of biomedical data.
+<p align="justify">
+  🎯If you want to know more about me, this is the rigth place! I am 29, and I am a <b>Ph.D. in Chemical Engineering</b> by the University of Zaragoza, with <b>5 years</b> of experience in the analysis of biomedical data, project management and results presentation.
   <br/>
   <br/>
-  🔬The main goal of my Ph.D. thesis was the development of strategies that could <b>face tumoral growth</b>, using nanomaterials with catalytic activities to this end. We also deepened in the study of their<b>specific delivery to the tumoral mass</b>.
+  📊Due to my Ph.D. topici, I currently possess a wide knowledge of the biological principles, diagnosis and treatment strategies of <b>oncological processes</b>. Besides, I also have practical experience using <b>Python, Excel, GraphPad Prism and SQL for Data Analysis</b>.
   <br/>
   <br/>
-  📊Due to this, I currently possess a wide knowledge of the biological principles, diagnosis and treatment strategies of <b>oncological processes</b>. At this moment, I am also learning and training my skills in <b>Python, Excel and SQL for Data Analysis</b> with relevant certifications and applying the obtained knowledge to practical situations.
-  <br/>
-  <br/>
-  🗣️During this stage, I also obtainted a wide variety of <b>technical and soft skills</b>: high interpersonal and social capacities, commitment and dedication, analytical thinking, fast learning, problem solving, public speaking, generation of scientific evidence and management of several projects in parallel. Now I am seeking to 
-    <b>transfer all the acquired abilities</b> to the industry.
+  🗣️During the last years, I also obtainted a wide variety of <b>soft skills</b>: high interpersonal and social capacities, analytical thinking, problem-solving mentality and adaptability, fast learning capacity, and public speaking skills. Now I am seeking to <b>transfer all the acquired abilities</b> to the industry.
 </p>
-
-<br/>
 
 <h2 align="center">
   <a href= "https://drive.google.com/file/d/1gEr8gfl3fGFKSIKgV14XsOcg2A77NulZ/view?usp=sharing">Resume 📑</a> 
@@ -42,7 +36,7 @@
 
 <br/>
 
-<h2> Technical & Professional Skills </h2> 
+<h1> Technical & Professional Skills </h1> 
 <p align="center">
   <img src= Microsoft_Office_Excel_(2025present).svg.png height="90">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -58,7 +52,7 @@
 </p>
 
 <h4 align="center">
-  ⭐9 scientific articles (Q1 journals)
+  ⭐10 scientific articles (Q1 journals)
   &nbsp; &nbsp; &nbsp; 
   ⭐International collaborations | 2 articles
   &nbsp; &nbsp; &nbsp;
@@ -72,29 +66,35 @@
   ⭐IBM Data Science Professional Certificate
 </h4>
 
-## Relevant Projects
+</br>
 
-### Inorganic NPs for cancer treatment
+<h1>Relevant Projects</h1>
 
-**Generation of scientific insights**
-
-Study of the biological effects of Cu- and Fe-based nanoparticles as **antitumoral therapy**, which led to the **publication** of several scientific articles in **Q1 journals**.
-
-This collaborative work led me to strengthen several skills that are useful in a **translational role**, like working in an **interdisciplinary team**, generating **scientific evidence** and solving problems **based on evidence**.
-
+<h2>Inorganic NPs for cancer treatment</h2>
+<img align="left" src= "Figure_6_-_CuFeDMSA.jpg" alt="CuFe@DMSA biological pathway" style="float: left; width: 255px;"/>
+<h3>Generation of scientific insights</h3>
+<p align="justify">
+  Study of the biological effects of Cu- and Fe-based nanoparticles as <b>antitumoral therapy</b>, which led to the <b>publication</b> of several scientific articles in <b>Q1 journal</b>.
+  </br>
+  </br>
+  This collaborative work led me to strengthen several skills that are useful in a <b>translational role</b>, like working in an <b>interdisciplinary team</b>, generating <b>scientific insights</b> and solving problems <b>based on data and evidence</b>.
+  </br>
+  </br>
+</p>
 [Project Summary](Project%20Summary%202fee3ad3657880248f5cf829fa72ea63.md)
 
-### Conference in scientific congress
+</br>
+</br>
 
-**Public speaking | Results presentation**
-
-Presentation (**English spoken**) of the **main results** generated up to that point in my doctoral thesis to an **expert, multidisciplinary audience**.
-
-**Congress**:  Nanomaterials Applied to Life Science, 2022 (Santander, Cantabria).
-
-![Figure 6 - CuFe@DMSA.jpg](Figure_6_-_CuFeDMSA.jpg)
-
-![congreso_NALS.jpeg](congreso_NALS.jpeg)
+<p align= "justify">
+  <img align="right" src= "congreso_NALS.jpeg" alt=" NALS Conference 2022, Santander" style="float: left; width: 300px"/>
+  <h3>Oral presentation in scientific conference</h3>
+  Presentation (<b>English spoken</b>) of the main results generated up to that point in my doctoral thesis to an <b>expert, multidisciplinary audience</b>.
+  </br>
+  </br>
+  This opportunity allowed me to improvemy public speaking skills in front of a large audience, as well as to effectively communicate the key insights of my work within a limited amount of time.
+  <b>Confrence:</b> Nanomaterials Applied to Life Science, 2022 (Santander, Cantabria).
+</p>
 
 ### Scientific review
 
