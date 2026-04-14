@@ -68,69 +68,75 @@
 
 </br>
 
-<h1>Relevant Projects</h1>
+<h1>Relevant Projects - Scientific Background</h1>
 
 <h2>Inorganic NPs for cancer treatment</h2>
-<img align="left" src= "Figure_6_-_CuFeDMSA.jpg" alt="CuFe@DMSA biological pathway" style="float: left; width: 255px;"/>
-<h3>Generation of scientific insights</h3>
 <p align="justify">
-  Study of the biological effects of Cu- and Fe-based nanoparticles as <b>antitumoral therapy</b>, which led to the <b>publication</b> of several scientific articles in <b>Q1 journal</b>.
-  </br>
-  </br>
-  This collaborative work led me to strengthen several skills that are useful in a <b>translational role</b>, like working in an <b>interdisciplinary team</b>, generating <b>scientific insights</b> and solving problems <b>based on data and evidence</b>.
-  </br>
-  </br>
+  <img align="left" src= "Figure_6_-_CuFeDMSA.jpg" alt="CuFe@DMSA biological pathway" style="float: left; width: 255px;"/>
+  <h3>Generation of scientific insights</h3>
+  <p align="justify">
+    Study of the biological effects of Cu- and Fe-based nanoparticles as <b>antitumoral therapy</b>, which led to the <b>publication</b> of several scientific articles in <b>Q1 journal</b>.
+    </br>
+    </br>
+    This collaborative work led me to strengthen several skills that are useful in a <b>translational role</b>, like working in an <b>interdisciplinary team</b>, generating <b>scientific insights</b> and solving problems <b>based on data and evidence</b>.
+    </br>
+    </br>
+  </p>
 </p>
-[Project Summary](Project%20Summary%202fee3ad3657880248f5cf829fa72ea63.md)
+[Project Summary](Project%20Summary%202fee3ad3657880248f5cf829fa72ea63.md) | <a href= https://pubs.rsc.org/en/content/articlelanding/2025/nr/d5nr01927c/unauth> Article link - Nanoscale</a>
 
 </br>
 </br>
 
 <p align= "justify">
-  <img align="right" src= "congreso_NALS.jpeg" alt=" NALS Conference 2022, Santander" style="float: left; width: 300px"/>
+  <img align="right" src= "congreso_NALS.jpeg" alt=" NALS Conference 2022, Santander" style="float: right; width: 300px"/>
   <h3>Oral presentation in scientific conference</h3>
-  Presentation (<b>English spoken</b>) of the main results generated up to that point in my doctoral thesis to an <b>expert, multidisciplinary audience</b>.
-  </br>
-  </br>
-  This opportunity allowed me to improvemy public speaking skills in front of a large audience, as well as to effectively communicate the key insights of my work within a limited amount of time.
-  <b>Confrence:</b> Nanomaterials Applied to Life Science, 2022 (Santander, Cantabria).
+  <p align= "justify">
+    Presentation (<b>English spoken</b>) of the main results generated up to that point in my doctoral thesis to an <b>expert, multidisciplinary audience</b>.
+    </br>
+    </br>
+    This opportunity allowed me to improvemy public speaking skills in front of a large audience, as well as to effectively communicate the key insights of my work within a limited amount of time.
+    <b>Confrence:</b> Nanomaterials Applied to Life Science, 2022 (Santander, Cantabria).
+  </p>
 </p>
 
-### Scientific review
+<h2>Scientific review</h2>
+<p align= "justify">
+  <img align="left" src= "Graphical_abstract.png" alt="Review Graphical abstract" style="float: left; width: 255px;"/>
+  <h3>Synthesizing scientific information</h3>
+  <p align= "justify">
+    <b>Writing, design and formatting</b> a scientific review about the principal interactions of nanoparticles with nucleic acids. This work required searching, understanding, and synthesizing a large amount of information from multiple sources.
+    </br>
+    </br>
+    [Project summary](Project%20summary%202fee3ad36578804f8206e0622c89342f.md) | <a href="https://www.mdpi.com/1422-0067/25/4/1983"> Article link - IJMS</a>
+  </p>
+</p>
 
-**Synthesizing scientific information**
+</br>
+</br>
 
-**Writing, design and formatting** of a scientific review about the principal interactions of **nanoparticles** with **nucleic acids**. This required understanding, synthesizing and restructuring a large amount of information drawn from multiple scientific articles.
-
-[Project summary](Project%20summary%202fee3ad36578804f8206e0622c89342f.md)
-
-![Graphical abstract.png](Graphical_abstract.png)
-
-## Hobbies & Interests
-
-### 🏀 Playing basketball
-
-After **20+ years** playing this sport, basketball has provided me with many qualities that I still carry with me today, such as **teamwork**, **leadership**, **discipline**, **dedication**, **resilience** and passion for sports. These qualities led my to win **2 individual prizes**, also leading my team to be **champions of the league**.
-
-I also obtained the **Certification of Basketball Trainer (Level I)**, spending 1 year as **Assistant Trainer** in the sports club where I played, learning the **management of a team** leading our team to the **league victory**.
-
-### 👟 Practicing other sports
-
-During the last years, I had the opportunity to practice and enjoy different sports and activities, such as **padel** and **mountain hiking**, still practicing them occasionally.
-
-In addition, I also enjoy **running** regularly, with the current objective of improving my running time in **5K races,** following a training planning.
-
-### 📚 Reading
-
-Reading books has always been one of my favorite activities, serving as a space for **relaxation** and **reflection**. My preferences have changed over the years, reading either **novels** or **essays**, yet there are some genres that I particularly enjoy the most, such as epic fantasy and personal development. I am also a huge fan of comics, *manga* and graphic novels.
-
-### ✈️Travelling
-
-I have always thought that visiting other cities or countries, and **experiencing other cultures** is a really enriching experience. Also, I am the kind of person that enjoys **planning trips,** having organized trips to many places in Spain, as well as to different countries such as **France**, **Germany**, **Austria** and **EEUU**. 
-
-During my **Erasmus+ programme**, I also travelled to a wide variety of different places in **Italy**, **diving into** and enjoying the **culture** of that country.
-
-
-
+<h1>Hobbies & Interests</h1>
+<p>
+  <h2>🏀 Playing basketball</h2>
+  <p align= "justify">
+    After **20+ years** playing this sport, basketball has provided me with many qualities that I still carry with me today, such as <b>teamwork, leadership, discipline, dedication, resilience</b> and passion for sports. These qualities led my to win <b>2 individual prizes</b>, also leading my team to be <b>champions of the league</b>.
+    I also obtained the <b>Certification of Basketball Trainer (Level I)</b>, spending one year as <b>Assistant Trainer</b> in the sports club where I played, learning the <b>management of a team</b> and leading our team to the <b>league victory</b>.
+  </p>
+  <h2>👟 Practicing other sports</h2>
+  <p align= "justify">
+    During the last years, I had the opportunity to practice and enjoy different sports and activities, such as **padel** and **mountain hiking**, still practicing them occasionally.
+    In addition, I also enjoy **running** regularly, with the current objective of improving my running time in **5K races,** following a training planning.
+  </p>
+  <h2>📚 Reading</h2>
+  <p align= "justify">
+    Reading books has always been one of my favorite activities, serving as a space for **relaxation** and **reflection**. My preferences have changed over the years, reading either **novels** or **essays**, yet there are some genres that I particularly enjoy the most, such as epic fantasy and personal development. I am also a huge fan of comics, *manga* and graphic novels.
+  </p>
+  <h2>✈️Travelling</h2>
+  <p algin= "justify">
+    I have always thought that visiting other cities or countries, and **experiencing other cultures** is a really enriching experience. Also, I am the kind of person that enjoys **planning trips,** having organized trips to many places in Spain, as well as to different countries such as **France**, **Germany**, **Austria** and **EEUU**. 
+    During my **Erasmus+ programme**, I also travelled to a wide variety of different places in **Italy**, **diving into** and enjoying the **culture** of that country.
+  </p>
+</p>
+</br>
 <h2>Thanks for taking the time to visit my portfolio!</h2>
 &nbsp;
