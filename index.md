@@ -69,10 +69,9 @@
 </br>
 
 <h1>Relevant Projects - Scientific Background</h1>
-
 <h2>Inorganic NPs for cancer treatment</h2>
 <p align="justify">
-  <img align="left" src= "Figure_6_-_CuFeDMSA.jpg" alt="CuFe@DMSA biological pathway" style="float: left; width: 255px;"/>
+  <img align="left" src= "Figure_6_-_CuFeDMSA.jpg" alt="CuFe@DMSA biological pathway" style="float: left; width: 280px;"/>
   <h3>Generation of scientific insights</h3>
   <p align="justify">
     Study of the biological effects of Cu- and Fe-based nanoparticles as <b>antitumoral therapy</b>, which led to the <b>publication</b> of several scientific articles in <b>Q1 journal</b>.
@@ -81,14 +80,14 @@
     This collaborative work led me to strengthen several skills that are useful in a <b>translational role</b>, like working in an <b>interdisciplinary team</b>, generating <b>scientific insights</b> and solving problems <b>based on data and evidence</b>.
     </br>
     </br>
+    <b><a href= "Subpage_CuFe.md"> Project summary</a> | <a href= https://pubs.rsc.org/en/content/articlelanding/2025/nr/d5nr01927c/unauth> Article link - Nanoscale</a></b>
   </p>
 </p>
-[Project Summary](Project%20Summary%202fee3ad3657880248f5cf829fa72ea63.md) | <a href= https://pubs.rsc.org/en/content/articlelanding/2025/nr/d5nr01927c/unauth> Article link - Nanoscale</a>
 
 </br>
 
 <p align= "justify">
-  <img align="right" src= "congreso_NALS.jpeg" alt=" NALS Conference 2022, Santander" style="float: right; width: 300px"/>
+  <img align="right" src= "congreso_NALS.jpeg" alt=" NALS Conference 2022, Santander" style="float: right; width: 320px"/>
   <h3>Oral presentation in scientific conference</h3>
   <p align= "justify">
     Presentation (<b>English spoken</b>) of the main results generated up to that point in my doctoral thesis to an <b>expert, multidisciplinary audience</b>.
@@ -98,8 +97,10 @@
     <b>Confrence:</b> Nanomaterials Applied to Life Science, 2022 (Santander, Cantabria).
   </p>
 </p>
+
 </br>
 </br>
+
 <h2>Scientific review</h2>
 <p align= "justify">
   <img align="left" src= "Graphical_abstract.png" alt="Review Graphical abstract" style="float: left; width: 255px;"/>
