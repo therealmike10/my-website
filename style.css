@@ -42,7 +42,8 @@ body {
 }
 
 .links a:hover {
-  color: #2c7be5;
+  background-color: #1a5fc4;
+  transform: translateY(-2px);
 }
 
 .profile-pic {
