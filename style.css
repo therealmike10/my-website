@@ -108,3 +108,17 @@ body {
 section {
   margin-bottom: 40px;
 }
+
+.skills-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  margin: 30px 0;
+}
+
+.skills-icons img {
+  height: 90px;
+  width: auto;
+}
