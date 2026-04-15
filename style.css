@@ -131,7 +131,7 @@ section {
 }
 
 .milestone-card {
-  background-color: #f5f7fa;
+  background-color: #F6FFE8;
   padding: 20px;
   border-radius: 14px;
   text-align: center;
@@ -141,12 +141,13 @@ section {
 .milestone-card h3 {
   margin: 0 0 10px 0;
   font-size: 28px;
-  color: #2f5bd3;
+  font-weight: bold;
+  color: #A5D32F;
 }
 
 .milestone-card p {
   margin: 0;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.4;
-  font-weight: 500;
+  font-weight: bold;
 }
