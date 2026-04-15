@@ -181,7 +181,7 @@ section {
 .links-text a {
   display: inline-flex;
   align-items: justify;
-  gap: 2px;
+  gap: 4px;
   margin: 2px;
   padding: 12px 20px;
   border-radius: 10px;
@@ -193,7 +193,7 @@ section {
   transition: all 0.25s ease;
 }
 
-.links a:hover {
+.links-text a:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 14px rgba(0, 0, 0, 0.12);
 }
