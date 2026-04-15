@@ -10,8 +10,19 @@ body {
 .hero {
   display: flex;
   align-items: flex-start;
-  gap: 32px;
+  gap: 30px;
   margin-bottom: 50px;
+}
+
+.hero-text {
+  text-align: justify;
+  max-width: 700px;
+}
+
+.profile-pic {
+  width: 260px;
+  border-radius: 12px;
+  flex-shrink: 0;
 }
 
 .main-title {
