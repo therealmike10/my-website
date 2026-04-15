@@ -86,10 +86,14 @@ body {
 }
 
 .graphical-abstract {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.graphical-abstract img {
   width: 700px;
+  max-width: 100%;
   border-radius: 16px;
-  flex-shrink: 0;
-  align: center;
 }
 
 .hero-text h1 {
