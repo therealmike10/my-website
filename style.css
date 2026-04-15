@@ -34,8 +34,8 @@ body {
   padding: 12px 20px;
   border-radius: 10px;
   text-decoration: none;
-  color: #222;
-  background-color: #f2f4f7;
+  color: #093AD9;
+  background-color: #DEE5FA;
   font-size: 18px;
   font-weight: 600;
   transition: all 0.25s ease;
@@ -186,8 +186,8 @@ section {
   padding: 12px 20px;
   border-radius: 10px;
   text-decoration: none;
-  color: #222;
-  background-color: #f2f4f7;
+  color: #093AD9;
+  background-color: #DEE5FA;
   font-size: 14px;
   font-weight: 600;
   transition: all 0.25s ease;
@@ -208,7 +208,7 @@ section {
 }
 
 .interest-card {
-  background-color: #f5f7fa;
+  background-color: #F6FFE8;
   border-radius: 14px;
   padding: 24px;
   margin-bottom: 24px;
@@ -219,6 +219,7 @@ section {
   margin-top: 0;
   margin-bottom: 14px;
   font-size: 24px;
+  color: #A5D32F
 }
 
 .interest-card p {
