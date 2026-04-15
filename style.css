@@ -25,7 +25,6 @@ body {
   text-align: justify;
   font-size: 17px;
   line-height: 1.6;
-  max-width: 700px;
 }
 
 .links {
@@ -84,6 +83,13 @@ body {
   width: 300px;
   border-radius: 12px;
   flex-shrink: 0;
+}
+
+.profile-pic {
+  width: 700px;
+  border-radius: 16px;
+  flex-shrink: 0;
+  image-align: center;
 }
 
 .hero-text h1 {
