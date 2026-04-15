@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: Helvetica, sans-serif;
   max-width: 1100px;
   margin: 0 auto;
   padding: 40px 20px;
@@ -21,6 +21,7 @@ body {
 
 .main-title h1 {
   font-size: 42px;
+  letter-spacing: 0.5px;
   margin-bottom: 5px;
 }
 
