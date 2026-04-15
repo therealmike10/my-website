@@ -197,3 +197,37 @@ section {
   transform: translateY(-2px);
   box-shadow: 0 6px 14px rgba(0, 0, 0, 0.12);
 }
+
+.interests-section {
+  margin-top: 60px;
+}
+
+.interests-section h2 {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.interest-card {
+  background-color: #f5f7fa;
+  border-radius: 14px;
+  padding: 24px;
+  margin-bottom: 24px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.interest-card h3 {
+  margin-top: 0;
+  margin-bottom: 14px;
+  font-size: 24px;
+}
+
+.interest-card p {
+  margin-bottom: 12px;
+  text-align: justify;
+  line-height: 1.7;
+  font-size: 17px;
+}
+
+.interest-card p:last-child {
+  margin-bottom: 0;
+}
