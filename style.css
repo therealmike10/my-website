@@ -180,10 +180,6 @@ section {
   flex-direction: row-reverse;
 }
 
-.project-block.reverse {
-  flex-direction: row-reverse;
-}
-
 .project-block.reverse img {
   width: 240px;
 }
