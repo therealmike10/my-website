@@ -185,6 +185,10 @@ section {
   border-radius: 8px;
 }
 
+.project-img-small {
+  width: 240px;
+}
+
 .project-text {
   flex: 1;
   text-align: justify;
