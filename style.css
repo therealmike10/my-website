@@ -176,17 +176,33 @@ section {
   align-items: center;
 }
 
+.project-block img {
+  width: 310px;
+  border-radius: 8px;
+}
+
 .project-block.reverse {
   flex-direction: row-reverse;
 }
 
 .project-block.reverse img {
-  width: 240px;
+  width: 300px;
 }
 
-.project-block img {
-  width: 310px;
+.project-block-small {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+  align-items: center;
+}
+
+.project-block-small img {
+  width: 240px;
   border-radius: 8px;
+}
+
+.project-block-small.reverse {
+  flex-direction: row-reverse;
 }
 
 .project-text {
