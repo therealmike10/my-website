@@ -180,13 +180,17 @@ section {
   flex-direction: row-reverse;
 }
 
+.project-block.reverse {
+  flex-direction: row-reverse;
+}
+
+.project-block.reverse img {
+  width: 240px;
+}
+
 .project-block img {
   width: 310px;
   border-radius: 8px;
-}
-
-.project-img-small {
-  width: 240px;
 }
 
 .project-text {
